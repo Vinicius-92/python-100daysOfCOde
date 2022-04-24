@@ -5,4 +5,5 @@
 
 
 ## Challenges:
-* Day 001 - Band name generator 2022 🏆
+* Day 001 - Band name generator 🏆
+* Day 002 - BIll  calculator 🏆
