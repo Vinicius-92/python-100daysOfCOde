@@ -9,5 +9,5 @@ def bill_calculator(bill, people, percentage):
 
 
 total = bill_calculator(totalBillValue, amountOfPeople, tipPercentage)
-print(f"Each person sould pay: ${'{:.2f}'.format(total)}")
+print(f"Each person should pay: ${'{:.2f}'.format(total)}")
 

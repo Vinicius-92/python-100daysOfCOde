@@ -7,3 +7,4 @@
 ## Challenges:
 * Day 001 - Band name generator 🏆
 * Day 002 - BIll  calculator 🏆
+* Day 003 - Treasure island 🏆
