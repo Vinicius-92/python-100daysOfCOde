@@ -9,3 +9,4 @@
 * Day 002 - BIll  calculator 🏆
 * Day 003 - Treasure island 🏆
 * Day 004 - Rock, paper and Scissors 🏆
+* Day 004 - Password generator 🏆
