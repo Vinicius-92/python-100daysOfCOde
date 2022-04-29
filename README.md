@@ -11,3 +11,4 @@
 * Day 004 - Rock, paper and Scissors 🏆
 * Day 005 - Password generator 🏆
 * Day 006 - Maze navigation 🏆
+* Day 007 - Hangman 🏆
