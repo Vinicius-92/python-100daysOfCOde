@@ -12,3 +12,4 @@
 * Day 005 - Password generator 🏆
 * Day 006 - Maze navigation 🏆
 * Day 007 - Hangman 🏆
+* Day 008 - Caesar Cypher 🏆
