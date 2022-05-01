@@ -13,3 +13,4 @@
 * Day 006 - Maze navigation 🏆
 * Day 007 - Hangman 🏆
 * Day 008 - Caesar Cypher 🏆
+* Day 009 - Highest Bidder 🏆
