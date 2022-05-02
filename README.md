@@ -14,3 +14,4 @@
 * Day 007 - Hangman 🏆
 * Day 008 - Caesar Cypher 🏆
 * Day 009 - Highest Bidder 🏆
+* Day 010 - Calculator 🏆
