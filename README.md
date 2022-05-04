@@ -16,3 +16,4 @@
 * Day 009 - Highest Bidder 🏆
 * Day 010 - Calculator 🏆
 * Day 011 - Blackjack 🏆
+* Day 012 - Guess the Number 🏆
