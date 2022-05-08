@@ -19,3 +19,4 @@
 * Day 012 - Guess the Number 🏆
 * Day 013 - Debugging 🏆
 * Day 014 - Higher Lower Game 🏆
+* Day 015 - Coffee Machine 🏆
