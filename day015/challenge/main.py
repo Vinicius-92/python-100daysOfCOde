@@ -36,13 +36,12 @@ def wait_restart():
     get_coffee()
 
 
-def get_money(coffee_type):
+def process_coins(coffee_type):
     print("Please insert coins.")
-    quarters = int(input("How many quarters? "))
-    dimes = int(input("How many dimes? "))
-    nickles = int(input("How many nickles? "))
-    pennies = int(input("How many pennies? "))
-    total = (quarters * 0.25) + (nickles * 0.05) + (dimes * 0.10) + (pennies * 0.01)
+    total = int(input("How many quarters? ")) * 0.25
+    total += int(input("How many dimes? ")) * 0.10
+    total += int(input("How many nickles? ")) * 0.05
+    total += int(input("How many pennies? ")) * 0.01
     if total < MENU[coffee_type]["cost"]:
         print(total)
         print(MENU[coffee_type]["cost"])
@@ -65,7 +64,7 @@ def get_coffee():
         make_drink = verify_resources(chosen_type)
     if not make_drink:
         wait_restart()
-    get_money(chosen_type)
+    process_coins(chosen_type)
     debit_resources(chosen_type)
     print(f"Here is your {chosen_type} ☕. Enjoy.")
     get_coffee()
