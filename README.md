@@ -22,3 +22,4 @@
 * Day 015 - Coffee Machine 🏆
 * Day 016 - Coffee Machine - OOP 🏆
 * Day 017 - Quiz Brain 🏆
+* Day 018 - Hirst Painting with Turtle Graphics 🏆
