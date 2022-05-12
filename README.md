@@ -24,3 +24,4 @@
 * Day 017 - Quiz Brain 🏆
 * Day 018 - Hirst Painting with Turtle Graphics 🏆
 * Day 019 - Turtle Race Betting Game 🏆
+* Day 020 - First Half of Snake Game 🏆
