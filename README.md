@@ -26,3 +26,4 @@
 * Day 019 - Turtle Race Betting Game 🏆
 * Day 020 - First Half of Snake Game 🏆
 * Day 021 - Snake Game 🏆
+* Day 022 - Pong 🏆
