@@ -28,3 +28,4 @@
 * Day 021 - Snake Game 🏆
 * Day 022 - Pong 🏆
 * Day 023 - Turtler (Frogger) 🏆
+* Day 024 - Mail Merge 🏆
