@@ -29,3 +29,4 @@
 * Day 022 - Pong 🏆
 * Day 023 - Turtler (Frogger) 🏆
 * Day 024 - Mail Merge 🏆
+* Day 025 - U.S. States Game 🏆
