@@ -34,3 +34,4 @@
 * Day 027 - Miles to KM converter + Km/h to Min/km 🏆
 * Day 028 - Pomodoro with Tkinter 🏆
 * Day 029 - Password Generator 🏆
+* Day 030 - Improved Password Generator 🏆
