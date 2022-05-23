@@ -35,3 +35,4 @@
 * Day 028 - Pomodoro with Tkinter 🏆
 * Day 029 - Password Generator 🏆
 * Day 030 - Improved Password Generator 🏆
+* Day 031 - Flash Card App 🏆
