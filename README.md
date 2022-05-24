@@ -36,3 +36,4 @@
 * Day 029 - Password Generator 🏆
 * Day 030 - Improved Password Generator 🏆
 * Day 031 - Flash Card App 🏆
+* Day 032 - Automated Birthday Wisher 🏆
