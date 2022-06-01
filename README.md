@@ -43,3 +43,6 @@
 * Day 036 - Stock Price Fluctuation Alert 🏆
 * Day 037 - Habit Tracker - Pixela 🏆
 * Day 038 - Google Sheets Workout Tracker 🏆
+* Day 039 - [API used to complete unavailable, come back later]
+* Day 040 - [API used to complete unavailable, come back later]
+* Day 041 - HTML Basic Personal Page 🏆
