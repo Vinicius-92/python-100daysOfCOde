@@ -44,6 +44,6 @@
 * Day 037 - Habit Tracker - Pixela 🏆
 * Day 038 - Google Sheets Workout Tracker 🏆
 * Day 039 - Flight Club - Personal use 🏆
-* Day 040 - [API used to complete unavailable, come back later]
+* Day 040 - Flight Club - Multiple users 🏆
 * Day 041 - HTML Basic Personal Page - Part 1 🏆
 * Day 042 - HTML Basic Personal Page - Part 2 🏆
