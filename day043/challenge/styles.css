@@ -1,0 +1,21 @@
+body {
+    background-color: #EAF6F6;
+}
+
+hr {
+    border: 10px dotted lightgray;
+    border-style: dotted none none none;
+    background-color: transparent;
+    width: 5%;
+    
+}
+
+img {
+    height: 150px; 
+    border-radius: 50%;
+}
+
+h1, h2, h3 {
+    color: #66BFBF;
+    font-family: sans-serif;
+}

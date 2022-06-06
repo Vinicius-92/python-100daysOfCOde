@@ -47,3 +47,4 @@
 * Day 040 - Flight Club - Multiple users 🏆
 * Day 041 - HTML Basic Personal Page - Part 1 🏆
 * Day 042 - HTML Basic Personal Page - Part 2 🏆
+* Day 043 - HTML/CSS Basic Personal Page - Part 3 🏆
