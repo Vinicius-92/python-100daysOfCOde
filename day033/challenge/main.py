@@ -5,8 +5,8 @@ from datetime import datetime
 
 MY_LONG = -47.404709
 MY_LAT = -22.563021
-MY_EMAIL = "vsavgft@gmail.com"
-MY_PASSWORD = "Gftadmin#2021"
+MY_EMAIL = "ERASED FOR SECURITY"
+MY_PASSWORD = "ERASED FOR SECURITY"
 
 response = requests.get(url="http://api.open-notify.org/iss-now.json")
 response.raise_for_status()

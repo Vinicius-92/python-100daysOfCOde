@@ -50,3 +50,4 @@
 * Day 043 - HTML/CSS Basic Personal Page - Part 3 🏆
 * Day 044 - HTML/CSS Basic Personal Page - Part 4 🏆
 * Day 045 - Web Scraping 100 Movies to Watch - BeautifulSoup 🏆
+* Day 046 - Spotify Playlist Time Machine 🏆
