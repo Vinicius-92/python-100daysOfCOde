@@ -52,3 +52,4 @@
 * Day 045 - Web Scraping 100 Movies to Watch - BeautifulSoup 🏆
 * Day 046 - Spotify Playlist Time Machine 🏆
 * Day 047 - Amazon Drop Price Warning 🏆
+* Day 048 - Cookie Clicker Game with Selenium 🏆
