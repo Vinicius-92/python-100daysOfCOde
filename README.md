@@ -54,3 +54,4 @@
 * Day 047 - Amazon Drop Price Warning 🏆
 * Day 048 - Cookie Clicker Game with Selenium 🏆
 * Day 049 - Automatic Linkedin Job Saver 🏆
+* Day 050 - Tinder Auto Liker 🏆
