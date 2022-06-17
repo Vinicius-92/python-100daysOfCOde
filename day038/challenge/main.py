@@ -28,7 +28,7 @@ def get_result_of_exercise(query: str) -> dict:
     response = requests.post(NUTRIONIX_URL, json=body, headers=headers_nutrix)
     response.raise_for_status()
     body["query"] = ""
-    return response.json()["exercises"]
+    return response.json()["challenge"]
 
 
 def save_new_workout(workout) -> None:

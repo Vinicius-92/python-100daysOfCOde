@@ -56,4 +56,5 @@
 * Day 049 - Automatic Linkedin Job Saver 🏆
 * Day 050 - Tinder Auto Liker 🏆
 * Day 051 - Internet Speed Complainer Bot 🏆
-* Day 053 - Automatic Apartment FInder 🏆
+* Day 053 - Automatic Apartment Finder 🏆
+* Day 054 - Creating decorators 🏆
