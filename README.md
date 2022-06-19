@@ -59,3 +59,4 @@
 * Day 053 - Automatic Apartment Finder 🏆
 * Day 054 - Creating decorators 🏆
 * Day 055 - Guess a number with Flask and Dog Gifs 🏆
+* Day 056 - Sample Personal Card Site 🏆
