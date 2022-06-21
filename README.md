@@ -61,3 +61,4 @@
 * Day 055 - Guess a number with Flask and Dog Gifs 🏆
 * Day 056 - Sample Personal Card Site 🏆
 * Day 057 - Simple Blog Template🏆
+* Day 058 - Tindog Page with Bootstrap 🏆
