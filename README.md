@@ -62,3 +62,4 @@
 * Day 056 - Sample Personal Card Site 🏆
 * Day 057 - Simple Blog Template🏆
 * Day 058 - Tindog Page with Bootstrap 🏆
+* Day 059 - Advanced Blog With Bootstrap and Jinja 🏆
