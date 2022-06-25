@@ -1,0 +1,31 @@
+{% include "header.html" %}
+
+  <!-- Page Header -->
+  <header class="masthead" style="background-image: url({{ url_for('static', filename='img/about-bg.jpg')}})">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="page-heading">
+            <h1>About Me</h1>
+            <span class="subheading">This is what I do.</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <p>Back-end developer, always looking to develop projects using the best practices in Object Oriented
+          Programming and SOLID principles, creating softwares and API's with high level of readability and
+          maintenance. Good knowledge in SQL databases. Passionate about learning and agile methodologies.</p>
+      </div>
+    </div>
+  </div>
+
+  <hr>
+
+  {% include "footer.html" %}

@@ -63,3 +63,4 @@
 * Day 057 - Simple Blog Template🏆
 * Day 058 - Tindog Page with Bootstrap 🏆
 * Day 059 - Advanced Blog With Bootstrap and Jinja 🏆
+* Day 060 - Added Send Mail to Blog Above 🏆
