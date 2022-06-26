@@ -64,3 +64,4 @@
 * Day 058 - Tindog Page with Bootstrap 🏆
 * Day 059 - Advanced Blog With Bootstrap and Jinja 🏆
 * Day 060 - Added Send Mail to Blog Above 🏆
+* Day 061 - Building Advanced Forms with WTForms 🏆
