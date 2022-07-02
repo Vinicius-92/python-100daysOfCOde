@@ -64,8 +64,9 @@
 * Day 058 - Tindog Page with Bootstrap 🏆
 * Day 059 - Advanced Blog With Bootstrap and Jinja 🏆
 * Day 060 - Added Send Mail to Blog Above 🏆
-* Day 061 - Building Advanced Forms with WTForms 🏆
-* Day 062 - Library - Flask and SQLite 🏆
-* Day 063 - My Top 10 Movies Database 🏆
-* Day 064 - Introduction to Web Desing 🏆
+* Day 062 - Building Advanced Forms with WTForms 🏆
+* Day 063 - Library - Flask and SQLite 🏆
+* Day 064 - My Top 10 Movies Database 🏆
+* Day 065 - Introduction to Web Design 🏆
+* Day 066 - Cafes API 🏆
 
