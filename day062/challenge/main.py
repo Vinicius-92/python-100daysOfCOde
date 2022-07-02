@@ -1,72 +1,36 @@
-from flask import Flask, render_template, request, redirect, url_for
-from flask_sqlalchemy import SQLAlchemy
+from flask import Flask, render_template
+from flask_wtf import FlaskForm
+from wtforms import StringField, PasswordField, SubmitField
+from wtforms.validators import DataRequired, Email, Length
+from flask_bootstrap import Bootstrap
+
+
+class LoginForm(FlaskForm):
+    email = StringField(label='Email', validators=[DataRequired(), Email()])
+    password = PasswordField(label='Password', validators=[DataRequired(), Length(min=8)])
+    submit = SubmitField(label="Log In")
+
 
 app = Flask(__name__)
-
-# CREATE DATABASE
-app.config['SQLALCHEMY_DATABASE_URI'] = "sqlite:///books.db"
-# Optional: But it will silence the deprecation warning in the console.
-app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
-db = SQLAlchemy(app)
+app.secret_key = "any-string-you-want-just-keep-it-secret"
+Bootstrap(app)
 
 
-# CREATE TABLE
-class Book(db.Model):
-    id = db.Column(db.Integer, primary_key=True)
-    title = db.Column(db.String(250), unique=True, nullable=False)
-    author = db.Column(db.String(250), nullable=False)
-    rating = db.Column(db.Float, nullable=False)
-
-
-db.create_all()
-
-
-@app.route('/')
+@app.route("/")
 def home():
-    # READ ALL RECORDS
-    all_books = db.session.query(Book).all()
-    return render_template("index.html", books=all_books)
+    return render_template("index.html")
 
 
-@app.route("/add", methods=["GET", "POST"])
-def add():
-    if request.method == "POST":
-        # CREATE RECORD
-        new_book = Book(
-            title=request.form["title"],
-            author=request.form["author"],
-            rating=request.form["rating"]
-        )
-        db.session.add(new_book)
-        db.session.commit()
-        return redirect(url_for('home'))
-    return render_template("add.html")
+@app.route("/login", methods=["GET", "POST"])
+def login():
+    login_form = LoginForm()
+    if login_form.validate_on_submit():
+        if login_form.email.data == "admin@email.com" and login_form.password.data == "12345678":
+            return render_template("success.html")
+        else:
+            return render_template("denied.html")
+    return render_template("login.html", form=login_form)
 
 
-@app.route("/edit", methods=["GET", "POST"])
-def edit():
-    if request.method == "POST":
-        # UPDATE RECORD
-        book_id = request.form["id"]
-        book_to_update = Book.query.get(book_id)
-        book_to_update.rating = request.form["rating"]
-        db.session.commit()
-        return redirect(url_for('home'))
-    book_id = request.args.get('id')
-    book_selected = Book.query.get(book_id)
-    return render_template("edit_rating.html", book=book_selected)
-
-
-@app.route("/delete")
-def delete():
-    book_id = request.args.get('id')
-
-    # DELETE A RECORD BY ID
-    book_to_delete = Book.query.get(book_id)
-    db.session.delete(book_to_delete)
-    db.session.commit()
-    return redirect(url_for('home'))
-
-
-if __name__ == "__main__":
+if __name__ == '__main__':
     app.run(debug=True)

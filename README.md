@@ -69,4 +69,5 @@
 * Day 064 - My Top 10 Movies Database 🏆
 * Day 065 - Introduction to Web Design 🏆
 * Day 066 - Cafes API 🏆
+* Day 067 - RESTful Blog's API 🏆
 
