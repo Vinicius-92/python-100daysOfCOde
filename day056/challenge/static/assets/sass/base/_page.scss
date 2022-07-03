@@ -20,7 +20,7 @@
 	body {
 
 		// Prevents animation/transition "flicker" on page load.
-		// Automatically added/removed by js/main.js.
+		// Automatically added/removed by js/main.py.js.
 			&.is-loading {
 				*, *:before, *:after {
 					@include vendor('animation', 'none !important');

@@ -24,7 +24,7 @@ login_button.click()
 
 time.sleep(3)
 
-dont_save_button = driver.find_element(By.XPATH, '//*[@id="react-root"]/section/main/div/div/div/div/button')
+dont_save_button = driver.find_element(By.XPATH, '//*[@id="react-root"]/section/main.py/div/div/div/div/button')
 dont_save_button.click()
 
 time.sleep(3)
@@ -60,7 +60,7 @@ time.sleep(3)
 
 followers_link = driver.find_element(
     By.XPATH,
-    '//*[@id="mount_0_0_hy"]/div/div[1]/div/div[1]/div/div/div[1]/div[1]/section/main/div/header/section/ul/li[2]/a/div'
+    '//*[@id="mount_0_0_hy"]/div/div[1]/div/div[1]/div/div/div[1]/div[1]/section/main.py/div/header/section/ul/li[2]/a/div'
 )
 followers_link.click()
 

@@ -104,7 +104,7 @@ question_data_trivia = [
                                        "question": "Cats have whiskers under their legs.", "correct_answer": "True",
                                        "incorrect_answers": ["False"]},
     {"category": "Entertainment: Video Games", "type": "boolean", "difficulty": "medium",
-     "question": "In the video game Transistor, Red is the name of the main character.",
+     "question": "In the video game Transistor, Red is the name of the main.py character.",
      "correct_answer": "True", "incorrect_answers": ["False"]},
     {"category": "History", "type": "boolean", "difficulty": "hard",
      "question": "The USS Missouri (BB-63) last served in the Korean War.", "correct_answer": "False",

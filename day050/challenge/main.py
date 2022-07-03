@@ -15,7 +15,7 @@ driver.get("http://www.tinder.com")
 sleep(2)
 login_button = driver.find_element(
                         By.XPATH,
-                        '//*[@id="content"]/div/div[1]/div/main/div[1]/div/div/header/div[1]/div[2]/div/button')
+                        '//*[@id="content"]/div/div[1]/div/main.py/div[1]/div/div/header/div[1]/div[2]/div/button')
 login_button.click()
 
 sleep(2)
@@ -52,7 +52,7 @@ for n in range(100):
         print("called")
         like_button = driver.find_element(
                             By.XPATH,
-                            '//*[@id="content"]/div/div[1]/div/main/div[1]/div/div/div[1]/div/div[2]/div[4]/button')
+                            '//*[@id="content"]/div/div[1]/div/main.py/div[1]/div/div/div[1]/div/div[2]/div[4]/button')
         like_button.click()
     except ElementClickInterceptedException:
         try:

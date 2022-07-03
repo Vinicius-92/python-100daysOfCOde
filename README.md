@@ -70,4 +70,5 @@
 * Day 065 - Introduction to Web Design 🏆
 * Day 066 - Cafes API 🏆
 * Day 067 - RESTful Blog's API 🏆
+* Day 068 - Flask Login - Get Secret Cheat Sheet 🏆
 
