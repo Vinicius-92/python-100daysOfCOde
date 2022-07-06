@@ -72,4 +72,5 @@
 * Day 067 - RESTful Blog's API 🏆
 * Day 068 - Flask Login - Get Secret Cheat Sheet 🏆
 * Day 069 - User Feature to Blog 🏆
+* Day 070 - Upload Blog to Heroku 🏆
 
