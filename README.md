@@ -74,3 +74,4 @@
 * Day 069 - User Feature to Blog 🏆
 * Day 070 - Upload Blog to Heroku 🏆
 * Day 071 - Exploration Data with Pandas 🏆
+* Day 072 - Data Visualization with Matplotlib 🏆
