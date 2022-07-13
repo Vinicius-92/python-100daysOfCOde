@@ -76,3 +76,5 @@
 * Day 071 - Exploration Data with Pandas 🏆
 * Day 072 - Data Visualization with Matplotlib 🏆
 * Day 073 - LEGO Dataset - Pandas 🏆
+* Day 074 - Google Trends Data 🏆
+
