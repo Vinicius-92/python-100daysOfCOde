@@ -77,4 +77,4 @@
 * Day 072 - Data Visualization with Matplotlib 🏆
 * Day 073 - LEGO Dataset - Pandas 🏆
 * Day 074 - Google Trends Data 🏆
-
+* Day 075 - Beautiful Plotly Charts 🏆
