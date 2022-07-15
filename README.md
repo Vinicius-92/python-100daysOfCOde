@@ -78,3 +78,4 @@
 * Day 073 - LEGO Dataset - Pandas 🏆
 * Day 074 - Google Trends Data 🏆
 * Day 075 - Beautiful Plotly Charts 🏆
+* Day 076 - Computation with NumPy 🏆
