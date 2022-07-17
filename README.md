@@ -79,3 +79,6 @@
 * Day 074 - Google Trends Data 🏆
 * Day 075 - Beautiful Plotly Charts 🏆
 * Day 076 - Computation with NumPy 🏆
+* Day 077 - Data visualization wiht Seaborn 🏆
+
+
