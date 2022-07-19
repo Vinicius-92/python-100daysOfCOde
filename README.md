@@ -81,4 +81,5 @@
 * Day 076 - Computation with NumPy 🏆
 * Day 077 - Data visualization wiht Seaborn 🏆
 * Day 078 - Nobel Prize Analysis 🏆
-* Day 078 - Dr Semmelweis Handwashing Discovery 🏆
+* Day 079 - Dr Semmelweis Handwashing Discovery 🏆
+* Day 080 - Morse Code Converter 🏆
